@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  thymeleaf:
+    mode: HTML5 # 使用HTML5标准
+    cache: false # 热部署静态文件,禁止使用缓存
+    encoding: UTF-8
